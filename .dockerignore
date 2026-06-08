@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+instance/
+audio_stats.db
+static/uploads/
+.git/
+.gitignore
